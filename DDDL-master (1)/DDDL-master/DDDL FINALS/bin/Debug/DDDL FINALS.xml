@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DDDL FINALS
+</name>
+</assembly>
+<members>
+<member name="T:DDDL_FINALS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.ADMIN_LOG_IN_PAGE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.ADMIN_S_TAB">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.CONTACT_US_FORM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.DOCTOR_LOG_IN_PAGE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.DOCTOR_S_TAB">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.DOCTOR_S_TAB__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.HOME_PAGE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.PATIENT_LOG_IN_PAGE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.PATIENT_REGISTRATION_FORM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DDDL_FINALS.My.Resources.Resources.PATIENT_S_TAB">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

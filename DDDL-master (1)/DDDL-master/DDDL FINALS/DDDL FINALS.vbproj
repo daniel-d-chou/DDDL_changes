@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83CABBC0-1A00-41E7-ADCE-5634539E6C0F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DDDL_FINALS.My.MyApplication</StartupObject>
+    <RootNamespace>DDDL_FINALS</RootNamespace>
+    <AssemblyName>DDDL FINALS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DDDL FINALS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DDDL FINALS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMIN LOG IN.Designer.vb">
+      <DependentUpon>ADMIN LOG IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN LOG IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN TAB.Designer.vb">
+      <DependentUpon>ADMIN TAB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN TAB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCTOR LOG IN.Designer.vb">
+      <DependentUpon>DOCTOR LOG IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCTOR LOG IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTACT.Designer.vb">
+      <DependentUpon>CONTACT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONTACT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCTOR TAB.Designer.vb">
+      <DependentUpon>DOCTOR TAB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCTOR TAB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOME PAGE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOME PAGE.Designer.vb">
+      <DependentUpon>HOME PAGE.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PATIENT LOG IN.Designer.vb">
+      <DependentUpon>PATIENT LOG IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PATIENT LOG IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PATIENT REGISTER.Designer.vb">
+      <DependentUpon>PATIENT REGISTER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PATIENT REGISTER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PATIENT TAB.Designer.vb">
+      <DependentUpon>PATIENT TAB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PATIENT TAB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ADMIN LOG IN.resx">
+      <DependentUpon>ADMIN LOG IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN TAB.resx">
+      <DependentUpon>ADMIN TAB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCTOR LOG IN.resx">
+      <DependentUpon>DOCTOR LOG IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTACT.resx">
+      <DependentUpon>CONTACT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCTOR TAB.resx">
+      <DependentUpon>DOCTOR TAB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOME PAGE.resx">
+      <DependentUpon>HOME PAGE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PATIENT LOG IN.resx">
+      <DependentUpon>PATIENT LOG IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PATIENT REGISTER.resx">
+      <DependentUpon>PATIENT REGISTER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PATIENT TAB.resx">
+      <DependentUpon>PATIENT TAB.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADMIN LOG IN PAGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADMIN%27S TAB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOCTOR LOG IN PAGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CONTACT US FORM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOCTOR%27S TAB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOME PAGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PATIENT LOG IN PAGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PATIENT REGISTRATION FORM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PATIENT%27S TAB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOCTOR%27S TAB %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,22 @@
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\bin\Debug\DDDL FINALS.exe.config
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\bin\Debug\DDDL FINALS.exe
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\bin\Debug\DDDL FINALS.pdb
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\bin\Debug\DDDL FINALS.xml
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\Interop.ADODB.dll
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.ADMIN_LOG_IN.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.ADMIN_TAB.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.DOCTOR_LOG_IN.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.CONTACT.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.DOCTOR_TAB.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.Home.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.Resources.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.PATIENT_LOG_IN.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.PATIENT_REGISTER.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL_FINALS.PATIENT_TAB.resources
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.exe
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.xml
+C:\Users\LENOVO\Downloads\DDDL-master (1)\DDDL-master\DDDL FINALS\obj\Debug\DDDL FINALS.pdb
